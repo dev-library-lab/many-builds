@@ -7,7 +7,7 @@ dist: focal
 install: skip
 
 stages:
-  - name: 439-test
+  - name: TBT-439-test-builds
 
 jobs:
   include:
