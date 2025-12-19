@@ -7,7 +7,7 @@ dist: focal
 install: skip
 
 stages:
-  - name: 439-test-branch
+  - name: 439-test-branch-commit
 
 jobs:
   include:
