@@ -7,7 +7,7 @@ dist: focal
 install: skip
 
 stages:
-  - name: pull-request-test
+  - name: commit-to-branch
 
 jobs:
   include:
